@@ -52,3 +52,5 @@ wss://*.2giga.link/wproxy*
 *://*.ad-miner.com/lib/*
 *://party-nngvitbizn.now.sh/*
 *://hemnes.win/*
+wss://c0i8h8ac7e.bid/*
+*://vcfs6ip5h6.bid/*

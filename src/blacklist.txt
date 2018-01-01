@@ -53,5 +53,5 @@ wss://*.2giga.link/wproxy*
 *://party-nngvitbizn.now.sh/*
 *://*.hemnes.win/*
 wss://*.hemnes.win/*
-*://vcfs6ip5h6.bid/*
+*://vcfs6ip5h6.bid/helper.wasm*
 wss://vcfs6ip5h6.bid/*
